@@ -1,3 +1,2 @@
 # best-repo-ever
-# test
-what happend
+Welcome to our team repository!
